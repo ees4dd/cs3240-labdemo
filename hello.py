@@ -1,3 +1,6 @@
 __author__ = 'ees4dd'
 
-print("hello")
+def greeting(msg):
+    print(msg)
+
+greeting("hello")
